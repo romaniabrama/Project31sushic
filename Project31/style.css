@@ -1,0 +1,36 @@
+
+body{
+    background-image: url('susshi.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    margin: 0;
+    margin: 0;
+}
+
+
+.jjj{
+    color: #FFFFFF;
+    margin-top: 36px;
+    margin-left: 36px;
+}
+
+h1{
+    color: #FFFFFF;
+    margin-left: 36px;
+    margin-top: 650px;
+    margin-bottom: -20px;
+    font-size: 70px;
+}
+
+h2{
+    color: #FFFFFF;
+    margin-left: 36px;
+    font-size: 25px;
+    font-style: light;
+}
+
+
+
+
+
